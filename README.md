@@ -1,4 +1,4 @@
-# Karaf Camel Log QuickStart 
+# Karaf Camel Log QuickStart
 
 This quickstart shows a simple Apache Camel application that logs a message to the server log every 5th second.
 
